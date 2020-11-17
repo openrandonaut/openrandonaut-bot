@@ -3,3 +3,6 @@
 I couldn't find any attempt at an open-source version of The Fatum Project bot, so I decided to try and make it myself.
 I'm not sure how The Fatum Project bot/Randonautica does it's calculations, and I'm not sure I'm doing it correctly here, but I think so.
 Fork away, friends!
+
+#### Telegram bot:
+![](https://media4.giphy.com/media/JkrKss7cEpusD0yLzJ/giphy.gif)
