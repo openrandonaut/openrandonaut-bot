@@ -7,4 +7,7 @@ Fork away, friends!<br><br><br> The script uses [quantumrandom](https://github.c
 <br><br><br>
 
 #### Telegram bot preview:
-<img src="https://media4.giphy.com/media/JkrKss7cEpusD0yLzJ/giphy.gif"><img align="right" src="https://i.imgur.com/BxxxddF.png" width="500">
+<img src="https://media4.giphy.com/media/JkrKss7cEpusD0yLzJ/giphy.gif">
+<br>
+#### Data visualization:
+<img align="right" src="https://i.imgur.com/BxxxddF.png" width="500">
