@@ -1,4 +1,7 @@
 ## OpenRandonaut
+![Python](https://img.shields.io/badge/built%20with-Python3-red.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ### Open-source QRNG coordinate bot
 <img align="left" src="https://i.imgur.com/KFueJRM.png" width="150">
 
