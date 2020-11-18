@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "openrandonaut"
+version = "0.1.0"
+description = "Open-source QRNG coordinate bot"
+authors = ["alicemandragora <openrandonaut@riseup.net>"]
+license = "GPL-3.0"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.1.4"
+scipy = "^1.5.4"
+python-telegram-bot = "^13.0"
+matplotlib = "^3.3.3"
+quantumrandom = "^1.9.0"
+numpy = "^1.19.4"
+telegram = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

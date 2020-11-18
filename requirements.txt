@@ -1,7 +1,0 @@
-pandas==1.1.4
-scipy==1.5.4
-python_telegram_bot==13.0
-matplotlib==3.3.2
-quantumrandom==1.9.0
-numpy==1.19.4
-telegram==0.0.1

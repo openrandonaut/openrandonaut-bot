@@ -96,3 +96,18 @@ def main_generate_location(start_lat, start_lon, radius, num_points):
 
     print(f"KDE cordinates: {max_dense_lat}, {max_dense_lon}")
     return max_dense_lon, max_dense_lat, radius, num_points
+
+
+# # Uncomment to test coordinate generation:
+#
+# your_current_longitude = 40.758137
+# your_current_latitude = -73.985521
+# radius_in_meters = 5000
+# number_of_quantum_points = 4096  # Must be divisible by 1024
+#
+# main_generate_location(
+#     your_current_latitude,
+#     your_current_longitude,
+#     radius_in_meters,
+#     number_of_quantum_points,
+# )
