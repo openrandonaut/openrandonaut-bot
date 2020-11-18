@@ -43,9 +43,9 @@ This will install all dependencies.
 <br>
 
 ## Getting started
-1. Test out the coordinate generation by editing openrandonaut.py and uncommenting the lines at the bottom of the file. Save it and run `python openrandonaut.py`
+1. Test out the coordinate generation by editing `openrandonaut.py` and uncommenting the lines at the bottom of the file. Save it and run `python openrandonaut.py`
 
-2. Test out the Telegram bot, by [registering a new Telegram bot](https://core.telegram.org/bots#creating-a-new-bot) and putting your token in bot.py where it says
+2. Test out the Telegram bot, by [registering a new Telegram bot](https://core.telegram.org/bots#creating-a-new-bot) and putting your token in `bot.py` where it says
 ```python
 updater = Updater(token="TELEGRAM_TOKEN_HERE", use_context=True)
 ```
