@@ -78,8 +78,8 @@ def main_generate_location(start_lat, start_lon, radius, num_points):
     # Create DataFrame from list of coordinates
     df = pd.DataFrame(coord_list, columns=["longitude", "latitude"])
 
-    x_data = df.latitude
-    y_data = df.longitude
+    y_data = df.latitude
+    x_data = df.longitude
 
     print("Calculating gaussian kernel density estimate...")
     kernel = stats.gaussian_kde(np.vstack([x_data, y_data]), bw_method="silverman")
@@ -92,7 +92,7 @@ def main_generate_location(start_lat, start_lon, radius, num_points):
 
     k_pos = kernel(positions)
 
-    max_dense_lat, max_dense_lon = positions.T[np.argmax(k_pos)]
+    max_dense_lon, max_dense_lat = positions.T[np.argmax(k_pos)]
 
     print(f"KDE cordinates: {max_dense_lat}, {max_dense_lon}")
     return max_dense_lon, max_dense_lat, radius, num_points
