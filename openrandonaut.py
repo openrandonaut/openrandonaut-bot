@@ -55,10 +55,7 @@ def main_generate_location(start_lat, start_lon, radius, num_points):
     numbers = []
     for i, x in enumerate(range(int(num_points / 1024))):
         x += 1
-        print(
-            f"Getting {1024*x} random unsigned 16-bit integers from QRNG...",
-            end=" ",
-        )
+        print(f"Getting {1024*x} random unsigned 16-bit integers from QRNG...", end=" ")
         print(f"({1024*x}/{num_points})", end="\r")
         numbers.extend(
             quantumrandom.get_data(data_type="uint16", array_length=1024, block_size=1)
