@@ -31,7 +31,7 @@ A few images for your pleasure:
 </table>
 
 **Fig. 1:** A very shitty GIF demonstrating the functionality of the Telegram bot.<br>
-**Fig. 2:** A visualization of how the Attractor coordinate is calculated. The blue dots are quantum random coordinates. The heat map shows the density of those coordinates. The darker, the denser. The red X marks the point with the highest density. Made using [seaborn](https://github.com/mwaskom/seaborn).
+**Fig. 2:** A visualization of how the Attractor coordinate is calculated. The blue dots are quantum random coordinates. The heat map shows the density of those coordinates. The darker, the denser. The red X marks the point with the highest density. Made using [seaborn](https://github.com/mwaskom/seaborn) and [this script (BETA!)](https://github.com/openrandonaut/openrandonaut/blob/main/kdeplot_heatmap.py).
 <br>
 
 ## Installation
