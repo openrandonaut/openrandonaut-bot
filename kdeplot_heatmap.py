@@ -54,7 +54,7 @@ print(f"maxlat = {maxlat}")
 print(f"maxlon = {maxlon}")
 
 # Use background image
-#ruh_m = plt.imread("_map.png")
+# ruh_m = plt.imread("_map.png")
 
 fig, ax = plt.subplots(figsize=(7.6, 7))
 
