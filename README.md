@@ -10,6 +10,16 @@ I couldn't find any attempt at an open-source version of the [Fatum Project bot]
 <br><br>
 If you're unfamiliar with The Fatum Project and the concepts of Probability Blind-Spots and Quantum Randomness, I recommend reading [fatum_theory.txt](https://github.com/anonyhoney/fatum-en/blob/master/docs/fatum_theory.txt) which shipped with the original Fatum bot. [This video](https://www.youtube.com/watch?v=6C6aXta3m1M) gives a lot of great background info too. If you have no idea what any of this is about, watch [this video](https://www.youtube.com/watch?v=nDX81AUm8yE) and/or read [this article](https://medium.com/swlh/randonauts-how-a-random-number-generator-can-set-you-free-dfc2a2413e15).
 
+Contributions greatly appreciated!
+
+#### To-do:
+- [x] Get coordinate generation working
+- [x] Get Telegram-bot working
+- [ ] Make heatmap generation more stable
+- [ ] Get people excited about the project!
+- [ ] Turn the coordinate logic into a module for use in other projects? :thinking:
+
+
 ## Table of contents
 - [Introduction](#openrandonaut)
 - [Examples](#examples)
