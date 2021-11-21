@@ -44,7 +44,7 @@ A few images for your pleasure:
 <br>
 
 ## Installation
-1. I you don't already have: [Install Python](https://wiki.python.org/moin/BeginnersGuide/Download)
+1. I you don't already have: [Install Python](https://wiki.python.org/moin/BeginnersGuide/Download). OpenRandonaut needs at least version 3.9 of Python to run.
 2. Install [poetry]() (OpenRandonaut uses it for package management):<br>
 `curl -sSL https://install.python-poetry.org/ | python3 -`
 
