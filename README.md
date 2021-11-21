@@ -46,7 +46,7 @@ A few images for your pleasure:
 ## Installation
 1. I you don't already have: [Install Python](https://wiki.python.org/moin/BeginnersGuide/Download)
 2. Install [poetry]() (OpenRandonaut uses it for package management):<br>
-`curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3 -`
+`curl -sSL https://install.python-poetry.org/ | python3 -`
 
 3. Clone the repository:<br>
 `git clone https://github.com/openrandonaut/openrandonaut.git`
