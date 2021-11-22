@@ -49,7 +49,7 @@ A few images for your pleasure:
 `curl -sSL https://install.python-poetry.org/ | python3 -`
 
 3. Clone the repository:<br>
-`git clone https://github.com/openrandonaut/openrandonaut.git`
+`git clone https://github.com/openrandonaut/openrandonaut-bot.git`
 
 4. Go to the openrandonaut directory and run `poetry install`.
 This will install all dependencies.
