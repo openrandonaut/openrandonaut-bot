@@ -1,3 +1,5 @@
+## NOTE: THIS PROJECT HAS BEEN DEPRECATED IN FAVOR OF THE PYTHON LIBRARY [PYRANDONAUT](https://github.com/openrandonaut/openrandonaut-bot/blob/main/README.md), AND WILL NO LONGER BE MAINTAINED
+
 ## OpenRandonaut
 ![Python](https://img.shields.io/badge/built%20with-Python3-red.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
